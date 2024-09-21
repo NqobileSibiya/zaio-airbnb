@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "nqobile sibiya",
+      "email": "nqobilesibiya@gmail.com",
+      "phone": "067 123 7979"
+    },
+    {
+      "id": "2",
+      "name": "amandla sibiya",
+      "email": "amandlasibiya@gmail.com",
+      "phone": "076 123 7979"
+    },
+    {
+      "id": "3",
+      "email": "carolsibiya@gmail.com",
+      "password": "12355464"
+    },
+    {
+      "id": "4",
+      "email": "nokuthulasibiya@gmail.com",
+      "password": "12355465"
+    },
+    {
+      "id": "233a",
+      "email": "olivier@email.com",
+      "password": "bestPassword"
+    },
+    {
+      "id": "eb4e",
+      "email": "snethemba@email.com",
+      "password": "bestPassword"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": 1,
+      "startDate": "2015-07-20",
+      "endDate": "2024-07-21",
+      "userId": "1"
+    }
+  ],
+  "Listings": [
+    {
+      "id": 1,
+      "img":"https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNTQ0NTEyMzEwMTI3NDg1MQ%3D%3D/original/bd73f0f8-9057-4bbc-ad70-1db13eb5c03f.png?",
+      "title":"Online Experiences",
+      "description":"Unique activities we can do together, led by a world of hosts.",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": "2"
+    },
+    {
+      "id": 2,
+      "img":"https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNTQ0NTEyMzEwMTI3NDg1MQ%3D%3D/original/bd73f0f8-9057-4bbc-ad70-1db13eb5c03f.png?",
+      "title":"Online Experiences",
+      "description":"Unique activities we can do together, led by a world of hosts.",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 2056,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 1500,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": "4"
+    }
+  ]
+}
